@@ -1,0 +1,11 @@
+.cardw {
+    display: grid;
+    grid-template-columns: repeat(3, 261px);
+    
+    justify-content: end;
+    align-items: center;
+    align-content: center;
+    }
+.bord{
+    border: 2px solid black;
+}
